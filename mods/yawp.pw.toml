@@ -1,0 +1,13 @@
+name = "Yet Another World Protector"
+filename = "yawp-1.21.1-fabric-0.5.2-beta4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/py6EMmAJ/versions/h7ORu4Or/yawp-1.21.1-fabric-0.5.2-beta4.jar"
+hash-format = "sha512"
+hash = "cbb32e15a0bb5b9643a021c81e8985d83ee79369d86bc07bb96e6f6ce5fc6f2eaa7395b6660d585453b5721208e11ea941b5238a919c2a8ee241466cbff21079"
+
+[update]
+[update.modrinth]
+mod-id = "py6EMmAJ"
+version = "h7ORu4Or"

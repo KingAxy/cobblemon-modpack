@@ -1,0 +1,13 @@
+name = "Beans Backpacks"
+filename = "beansbackpacks-1.21-f-0.8-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o4TtgIhD/versions/WmLM916f/beansbackpacks-1.21-f-0.8-beta.jar"
+hash-format = "sha512"
+hash = "f19c4dd0f5bcab91a6c31ff45ce9301fb92abd9d60033695c193f23b54f751427ba066420fd2414ad38c9c7ed6a2eeb0d57dfa86c950a09355fc3b603ba70378"
+
+[update]
+[update.modrinth]
+mod-id = "o4TtgIhD"
+version = "WmLM916f"

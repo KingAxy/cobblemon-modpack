@@ -1,0 +1,13 @@
+name = "Beans Backpacks Knowlogy"
+filename = "beansbackpacks_knowlogy-fabric-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pb1H9v0l/versions/cnCCkaxD/beansbackpacks_knowlogy-fabric-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "aacbd8376d52e6ac54876e52324e8ff2d4cbd819c7f033bb3fcfed3fabe639769420ab91afa300e4e1963e81e94420a47d345cc50dda6c8e7a5bbdbb6d7b4a81"
+
+[update]
+[update.modrinth]
+mod-id = "Pb1H9v0l"
+version = "cnCCkaxD"

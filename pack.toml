@@ -11,4 +11,4 @@ hash = "bd8c0df28611ff48bb8e727bf79a9b12bcfe47bd90e82e15d10e33cf15267033"
 [versions]
 fabric = "0.15.10"
 minecraft = "1.21.1"
-https://raw.githubusercontent.com/KingAxy/cobblemon-modpack/refs/heads/main/pack.toml
+https://raw.githubusercontent.com/KingAxy/cobblemon-modpack/main/pack.toml

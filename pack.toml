@@ -13,4 +13,4 @@ fabric = "0.15.10"
 minecraft = "1.21.1"
 
 [update]
-url = "https://raw.githubusercontent.com/KingAxy/cobblemon-modpack/main/pack.toml"
+modpack = "https://raw.githubusercontent.com/KingAxy/cobblemon-modpack/main/pack.toml"
